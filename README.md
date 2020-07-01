@@ -1,4 +1,4 @@
-# SÓ FAÇO CAGADA, MISERICÓRDIA
+# Ambiente de teste
 Xõ testar isso de novo novamente
 e mais uma vez
 e de novo
